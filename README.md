@@ -49,11 +49,11 @@ whoAreYou: BMO
 All messages will also be logged in `chat.txt`:
 
 ```text
-[iron]: Hi there!
-[BMO]: Hello!
-[iron]: How are you?
-[BMO]: I'm good, and you?
-[iron]: Doing well, thanks!
+iron: Hi there!
+BMO: Hello!
+iron: How are you?
+BMO: I'm good, and you?
+iron: Doing well, thanks!
 ```
 
 ---
