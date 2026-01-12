@@ -64,5 +64,5 @@ iron: Doing well, thanks!
 * You can change user names, add timestamps, or improve the exit flow as you like
 * No network or internet connection required
 
-- [ ] d
+- [x] d
 - [ ] ddwd
