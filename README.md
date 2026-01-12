@@ -63,6 +63,3 @@ iron: Doing well, thanks!
 * This is a **demo project**, meant for personal use or learning purposes
 * You can change user names, add timestamps, or improve the exit flow as you like
 * No network or internet connection required
-
-- [x] d
-- [ ] ddwd
